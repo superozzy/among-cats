@@ -8,6 +8,7 @@ body{
     font-family:'Amatic SC', cursive;
     font-size:20px;
     background-image: url(images/stars.jpg);
+	overflow-x: hidden;
 }
 .container{
     position:relative;
